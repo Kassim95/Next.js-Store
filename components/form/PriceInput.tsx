@@ -23,3 +23,5 @@ const PriceInput = ({ defaultValue }: FormInputNumberProps) => {
     </div>
   );
 };
+
+export default PriceInput;

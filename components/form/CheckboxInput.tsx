@@ -8,7 +8,7 @@ type CheckboxInputProps = {
   defaultChecked?: boolean;
 };
 
-const CheckboxInout = ({
+const CheckboxInput = ({
   name,
   label,
   defaultChecked = false,
@@ -25,4 +25,4 @@ const CheckboxInout = ({
     </div>
   );
 };
-export default CheckboxInout;
+export default CheckboxInput;
